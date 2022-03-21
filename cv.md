@@ -4,7 +4,7 @@
 
 # Contacts:
 
- [![](https://sun9-43.userapi.com/impg/yCHsndFf-NNOGugyMQ8uQXMD0B3Mh1RXjySwwA/_RIIhCFTIaM.jpg?size=48x48&quality=96&sign=13f7f34f44fdc09ca5a66ca158c2a865)](https://t.me/Bail996)  [![](https://sun9-84.userapi.com/impg/C_Dv6jnMt84fMLZhNUEqqDcv5khElZdDzZkOhQ/GgX_1OggZAw.jpg?size=48x48&quality=96&sign=fd2e69a1b5168c757af680a5114bbd31)](mailto:bailmatezkij@gmail.com)  [![](https://sun9-26.userapi.com/impg/LsCG_FohCkYdTeM3ctkEqo1iDAPQeheOXQZudg/4uH1odg-HJQ.jpg?size=48x48&quality=96&sign=231a907d9aa7bd1fa315bcea9e8fbcbc)](https://github.com/VadimMartynov) 
+ [![](/images/telegram.png)](https://t.me/Bail996)  [![](/images/gmail.png)](mailto:bailmatezkij@gmail.com)  [![](/images/github.png)](https://github.com/VadimMartynov) 
 
  ***
 
@@ -51,9 +51,9 @@ function random (mas,elem) {
  
 # Experience:
 
-**Education:**  studied at University named after F.Skorina at the Faculty of Information Technology Software
-**Courses:** Automated Testing Foundations 
-**Worked** for 2 years as sysadmin in an educational institution.
+* **Education:**  studied at University named after F.Skorina at the Faculty of Information Technology Software
+* **Courses:** Automated Testing Foundations 
+* **Worked** for 2 years as sysadmin in an educational institution.
 
  ***
 
